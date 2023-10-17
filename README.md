@@ -18,8 +18,20 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+#Program to swap two values.
+#Developed by: Adchaya kiruthika M S 
+#RegisterNumber:23005270
+x=input()
+y=input()
+temp=x
+x=y
+y=temp
+print("Swapped values are:",x,y)
 
-
+```
+## OUTPUT:
+![Output](/swapping.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
